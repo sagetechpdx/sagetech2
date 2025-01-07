@@ -57,13 +57,13 @@ export const Footer = () => {
 
           <div className="lg:flex hidden gap-3 ">
             <a href="https://maps.app.goo.gl/UfCTRnDeFC3f5xF2A" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer   ">
-              <i class="bi-google"></i>
+              <i className="bi-google"></i>
             </a>
             <a href="https://facebook.com/sagetechpdx" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer  ">
-              <i class="bi-facebook"></i>
+              <i className="bi-facebook"></i>
             </a>
             <a href="https://www.yelp.com/biz/sage-tech-portland" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer  ">
-              <i class="bi-yelp"></i>
+              <i className="bi-yelp"></i>
             </a>
           </div>
         </div>
