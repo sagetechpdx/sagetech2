@@ -6,6 +6,7 @@ const Hero = () => {
     <section className="flex lg:flex-row flex-col-reverse ">
       <header className="lg:w-[50%] w-full">
         <div className="">
+          container.style.backgroundColor = "green"
           <h1 className="lg:text-[60px] text-[48px] leading-[60px]  ">Sage Tech</h1>
           <h2 className="lg:text-[60px] text-[48px] leading-[60px] ">Portland's Most Trusted Tech Support</h2>
           <p className="break-words text-2xl mt-10 leading-6 ">
