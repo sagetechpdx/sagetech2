@@ -19,9 +19,9 @@ export default {
         kanit:["Kanit","sans-serif"]
       },
       colors: {
-        green: "#B9FF66",
-        dark: "#191A23",
-        gray: "#F3F3F3",
+        green: "#80ED99",
+        dark: "#22577A",
+        gray: "#38A3A5",
       },
     },
   },
