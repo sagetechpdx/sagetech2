@@ -4,6 +4,10 @@ import b3 from "./brandLogos/b3.png";
 import b4 from "./brandLogos/b4.png";
 import b5 from "./brandLogos/b5.png";
 import b6 from "./brandLogos/b6.png";
+import b7 from "./brandLogos/b6.png";
+import b8 from "./brandLogos/b6.png";
+import b9 from "./brandLogos/b6.png";
+import b10 from "./brandLogos/b6.png";
 
 import starts from "./contactus/stars.png";
 
