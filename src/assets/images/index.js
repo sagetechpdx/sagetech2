@@ -27,9 +27,9 @@ import p4 from "./Team/p4.png";
 import p5 from "./Team/p5.png";
 import p6 from "./Team/p6.png";
 import linkedln from "./Team/linkedln.png";
-import contact from './contactUs.png'
+import contact from './contactUs.png';
 
-import arrov from './arrov.png'
+import arrov from './arrov.png';
 
 export {
   b1,
@@ -38,6 +38,10 @@ export {
   b4,
   b5,
   b6,
+  b7,
+  b8,
+  b9,
+  b10,
 
   arrov,
 
