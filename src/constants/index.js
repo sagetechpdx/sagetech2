@@ -28,7 +28,7 @@ import {} from "./index";
 
 export const navLinks = [
   { href: "#about", label: "about" },
-  { href: "#service", label: "services },
+  { href: "#service", label: "services" },
   { href: "#testimonials", label: "testimonials" },
   { href: "#price", label: "price" },
   { href: "#remote support", label: "remote support" },
